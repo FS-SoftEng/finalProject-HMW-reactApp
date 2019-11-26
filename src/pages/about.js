@@ -45,10 +45,6 @@ export default class AboutPage extends Component {
                 </p>
                 <br></br>
 
-                {/* Do I need to make these images uploaded to a website or web App to make them a URL link? */}
-                {/* <img src={'path/to/one.jpeg'} /> */}
-                {/* <img src={require('path/to/one.jpeg')} /> */}
-
                 <div id='teamPhotos'>
                     <img src={teamPhotoJGP} width='300' height='300' />
                     <h3>Jordan Page</h3>
