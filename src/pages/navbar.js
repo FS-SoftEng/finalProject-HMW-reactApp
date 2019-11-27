@@ -7,7 +7,7 @@ export default class Navbar extends Component {
 
     render() {
         return (
-            <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
+            <nav className="navbar navbar-dark bg-dark navbar-expand-lg" id='navbar'>
 
                 <h2 className="navbar-brand">HealthyMeWe</h2>
 
@@ -50,3 +50,4 @@ export default class Navbar extends Component {
         );
     }
 }
+

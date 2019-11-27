@@ -14,6 +14,7 @@ import ExerciseLog from "./pages/exerciseLog";
 import EditExercise from "./pages/editExercise";
 import ExerciseTools from "./pages/tools"
 
+
 function App() {
   return (
     <Router>
